@@ -1,0 +1,8 @@
+Physician not registered!
+Physician not registered!
+Patient not admitted!
+[Physician] Name: Dr.Lee AdmitPatients: MarkLiu MarkLiuLiu
+[Physician] Name: Dr.Chen AdmitPatients:
+[Patient] Name: MarkLiu AdmitPhysician: Dr.Lee
+[Patient] Name: MarkLiuLiu AdmitPhysician: Dr.Lee
+[Treatment] Date: 2017/10/10 Time: 9:00 Results: MarkLiu was treated by Dr.Lee
